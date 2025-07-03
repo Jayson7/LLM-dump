@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 #random seed to ensure the same random numbers are generated each time
 
 
-# Random seed for reproducibility
+# Random seed 
 np.random.seed(0)
 
 # Create synthetic data
